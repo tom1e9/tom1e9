@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Tom
 
-<!--
-**tom1e9/tom1e9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Software Developer
+🌱 Currently learning HTML, CSS, JavaScript
+🚀 Building projects every week
+📍 Ethiopia
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## 📫 Contact
+
+- Email: your-email@example.com
+- GitHub: https://github.com/tom1e9
