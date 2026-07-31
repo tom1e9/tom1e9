@@ -22,7 +22,7 @@
 ![Tom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tom1e9&show_icons=true&theme=tokyonight)
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tom1e9&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=tom1e9&theme=tokyonight&v=1)
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tom1e9&layout=compact&theme=tokyonight)
