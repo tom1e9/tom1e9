@@ -98,7 +98,7 @@ A responsive portfolio website showcasing my skills and projects.
 
 ---
 
-## 🐍 Contribution Snakee
+## 🐍 Contribution Snake
 
 > **After creating the workflow below, this animation will appear automatically.**
 
