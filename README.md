@@ -2,7 +2,7 @@
 <h3 align="center">💻 Beginner Software Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;HTML+%7C+CSS+%7C+JavaScript;Learning+Git+and+GitHub;Future+Full-Stack+Developer🚀"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;HTML+%7C+CSS+%7C+JavaScript;Learning+Git+and+GitHub;Future+Full-Stack+Developer🚀" />
 </p>
 
 ---
