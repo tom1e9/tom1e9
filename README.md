@@ -54,6 +54,9 @@
 ---
 
 ## 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <a href="https://github.com/tom1e9">
@@ -64,6 +67,7 @@
   </a>
 </p>
 
+---
 ---
 
 ## 🏆 GitHub Trophies
