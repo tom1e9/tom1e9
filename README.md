@@ -55,7 +55,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tom1e9&theme=tokyonightv4" />
+  <img src="https://streak-stats.demolab.com?user=tom1e9&theme=tokyonight" />
 </p>
 
 ---
