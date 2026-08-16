@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Im Thomas Birhanu 👋</h1>
+<h1 align="center">Hi, I'm Thomas Birhanu 👋</h1>
 <h3 align="center">💻 Beginner Software Developer from Ethiopia 🇪🇹</h3>
 
 <p align="center">
